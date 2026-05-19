@@ -1535,6 +1535,7 @@ FPackageName: Skipped package /Game/FirstPerson/_GENERATED/Admin/Rectangle_BDCD9
 [2026.05.19-02.20.36:032][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 677.102722
 [2026.05.19-02.20.37:365][382]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.19-02.20.37:365][383]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 678.101074, Update Interval: 322.722260
+<<<<<<< Updated upstream
 =======
 [2026.05.19-02.23.01:587][  0]LogConfig: Set CVar [[r.VSync:0]]
 [2026.05.19-02.23.01:587][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
@@ -3420,4 +3421,1094 @@ FPackageName: Skipped package /Game/FirstPerson/_GENERATED/Admin/Rectangle_BDCD9
 [2026.05.19-02.59.13:629][408]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2099.947021
 [2026.05.19-02.59.13:963][439]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.19-02.59.13:963][439]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2100.269775, Update Interval: 302.356628
+>>>>>>> Stashed changes
+=======
+[2026.05.19-02.21.44:465][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.05.19-02.21.44:480][583]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/T9/C1M2UH9UKUJS489J1VPQD4_Auto1
+[2026.05.19-02.21.44:480][583]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/C1M2UH9UKUJS489J1VPQD4_Auto1B6D4418245D13CC5E6715E93D28948C4.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/T9/C1M2UH9UKUJS489J1VPQD4_Auto1.uasset'
+[2026.05.19-02.21.44:491][583]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/3I/317OVNBSDHUF1ISK3MZX3X_Auto1
+[2026.05.19-02.21.44:492][583]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/317OVNBSDHUF1ISK3MZX3X_Auto136A29475442EC6804637AE8627CBC9B1.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/3I/317OVNBSDHUF1ISK3MZX3X_Auto1.uasset'
+[2026.05.19-02.21.44:493][583]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.046
+[2026.05.19-02.21.44:493][583]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2026.05.19-02.21.44:494][583]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B] ([1] browsable assets)...
+[2026.05.19-02.21.44:711][583]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B.Extrude_C61A997B]
+[2026.05.19-02.21.44:711][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B]
+[2026.05.19-02.21.44:727][583]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B_Auto1
+[2026.05.19-02.21.44:728][583]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Extrude_C61A997B_Auto1CE71318240F96B81A6A799A10E21E7DD.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B_Auto1.uasset'
+[2026.05.19-02.21.44:730][583]LogFileHelpers: Auto-saving content packages took 0.236
+[2026.05.19-02.26.07:800][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1008.871338
+[2026.05.19-02.26.08:797][376]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-02.26.08:797][376]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1009.534973, Update Interval: 328.063599
+[2026.05.19-02.27.27:433][580]LogStreaming: Display: FlushAsyncLoading(412): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-02.27.31:351][ 12]Cmd: TRANSACTION UNDO
+[2026.05.19-02.27.31:351][ 12]LogEditorTransaction: Undo Place Objects
+[2026.05.19-02.27.33:338][152]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles
+[2026.05.19-02.27.33:371][152]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.05.19-02.27.33:844][152]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.27.33:844][152]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2026.05.19-02.27.33:844][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.27.33:844][152]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.27.33:844][152]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.27.33:854][152]LogSlate: Took 0.006031 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.05.19-02.27.34:020][154]MaterialEditorStats: Base pass shader: 223 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.05.19-02.27.34:020][154]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.27.34:020][154]MaterialEditorStats: Texture samplers: 6/16
+[2026.05.19-02.27.34:020][154]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2026.05.19-02.27.34:020][154]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.27.34:020][154]MaterialEditorStats: Shader Count: 5
+[2026.05.19-02.27.34:020][154]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.30.24:506][482]LogShaderCompilers: Display: ================================================
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Total job queries 499, among them cache hits 53 (10.62%), DDC hits 368 (73.75%), Duplicates 67 (13.43%)
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Tracking 379 distinct input hashes that result in 276 distinct outputs (72.82%)
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: RAM used: 3.49 MiB of 1.60 GiB budget. Usage: 0.21%
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Shaders Compiled: 11
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Average time worker was idle: 4.21 s
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Job execution time: average 0.54 s, max 1.35 s
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Job life time (pending + execution): average 0.59 s, max 1.45
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Shader code size: total 82.324 KiB, numShaders 11, average 7.483 KiB, min 5.957 KiB, max 13.219 KiB
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.84 s
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Average processing rate: 3.88 jobs/sec
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Total thread time: 3.472 s
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Total thread preprocess time: 6.083 s
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Percentage time preprocessing: 175.19%
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Effective parallelization: 1.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.102051
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.29 sec, max 0.36 sec, min 0.27 sec)
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 59.21% of total time (compiled    7 times, average 0.29 sec, max 0.36 sec, min 0.27 sec)
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.47% of total time (compiled    3 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.32% of total time (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: === Material stats ===
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Materials Translated:    164
+[2026.05.19-02.30.24:507][482]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.05.19-02.30.24:508][482]LogShaderCompilers: Display: Material Translation Only: 0.03 s (34%)
+[2026.05.19-02.30.24:508][482]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.05.19-02.30.24:508][482]LogShaderCompilers: Display: Material Cache Hits: 21 (13%)
+[2026.05.19-02.30.24:508][482]LogShaderCompilers: Display: ================================================
+[2026.05.19-02.31.44:974][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.19-02.31.44:988][723]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/T9/C1M2UH9UKUJS489J1VPQD4_Auto2
+[2026.05.19-02.31.44:988][723]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/C1M2UH9UKUJS489J1VPQD4_Auto20C28AF3F4FDCE66AA615A3BF56E8581F.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/T9/C1M2UH9UKUJS489J1VPQD4_Auto2.uasset'
+[2026.05.19-02.31.45:007][723]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/3I/317OVNBSDHUF1ISK3MZX3X_Auto2
+[2026.05.19-02.31.45:008][723]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/317OVNBSDHUF1ISK3MZX3X_Auto2CD8C048141AB948E78AF009A8E2959C8.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/3I/317OVNBSDHUF1ISK3MZX3X_Auto2.uasset'
+[2026.05.19-02.31.45:010][723]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.069
+[2026.05.19-02.31.45:010][723]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2026.05.19-02.31.45:010][723]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B] ([1] browsable assets)...
+[2026.05.19-02.31.45:010][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B]
+[2026.05.19-02.31.45:018][723]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B_Auto2
+[2026.05.19-02.31.45:019][723]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Extrude_C61A997B_Auto246FDC58749B3A8747B9184A032415EE5.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B_Auto2.uasset'
+[2026.05.19-02.31.45:020][723]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.05.19-02.31.50:867][741]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1351.938599
+[2026.05.19-02.31.51:866][744]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-02.31.51:866][744]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1352.606689, Update Interval: 315.392303
+[2026.05.19-02.33.54:774][416]LogContentBrowser: Attempting asset rename: M_Concrete_Tiles1 -> M_Concrete_Tiles1
+[2026.05.19-02.34.03:812][910]LogContentBrowser: Attempting asset rename: M_Concrete_Tiles1 -> M_Concrete_Tiles1
+[2026.05.19-02.34.06:306][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.05.19-02.34.06:437][999]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.05.19-02.34.06:448][999]LogSlate: Took 0.009394 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.05.19-02.34.08:198][999]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.19-02.34.10:094][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.19-02.34.11:157][ 88]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.19-02.34.11:185][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.19-02.34.11:199][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.05.19-02.34.11:212][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.05.19-02.34.28:834][874]LogStreaming: Display: FlushAsyncLoading(413): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-02.34.28:849][874]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.34.28:849][874]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2026.05.19-02.34.28:849][874]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.34.28:849][874]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.34.28:849][874]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.34.28:979][876]MaterialEditorStats: Base pass shader: 223 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.05.19-02.34.28:979][876]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.34.28:979][876]MaterialEditorStats: Texture samplers: 6/16
+[2026.05.19-02.34.28:979][876]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2026.05.19-02.34.28:979][876]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.34.28:979][876]MaterialEditorStats: Shader Count: 5
+[2026.05.19-02.34.28:979][876]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.35.36:506][298]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Engine/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.WorldAlignedTexture
+[2026.05.19-02.35.36:509][298]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.05.19-02.35.43:634][934]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-02.35.43:634][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-02.35.43:676][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.05.19-02.35.47:695][244]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.35.47:699][244]MaterialEditorStats: Error: [SM6] (Function WorldAlignedTexture) Missing function input 'TextureObject'
+[2026.05.19-02.36.21:278][655]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.36.21:287][655]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: ================================================
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Total job queries 531, among them cache hits 74 (13.94%), DDC hits 368 (69.30%), Duplicates 69 (12.99%)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Tracking 388 distinct input hashes that result in 283 distinct outputs (72.94%)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: RAM used: 3.53 MiB of 1.60 GiB budget. Usage: 0.22%
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Shaders Compiled: 20
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Average time worker was idle: 96.77 s
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Job execution time: average 0.53 s, max 1.35 s
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Job life time (pending + execution): average 0.60 s, max 1.45
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Shader code size: total 145.539 KiB, numShaders 20, average 7.276 KiB, min 5.68 KiB, max 13.219 KiB
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.97 s
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Average processing rate: 4.03 jobs/sec
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Total thread time: 6.635 s
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Total thread preprocess time: 6.432 s
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Percentage time preprocessing: 96.94%
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Effective parallelization: 1.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.111298
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.70 sec, max 0.71 sec, min 0.69 sec)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.31 sec, max 0.37 sec, min 0.27 sec)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 56.80% of total time (compiled   12 times, average 0.31 sec, max 0.37 sec, min 0.27 sec)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.03% of total time (compiled    2 times, average 0.70 sec, max 0.71 sec, min 0.69 sec)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.04% of total time (compiled    5 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display:                                                 FLumenCardPS - 4.13% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: === Material stats ===
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Materials Translated:    195
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Material Translation Only: 0.04 s (35%)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: Material Cache Hits: 21 (11%)
+[2026.05.19-02.36.24:542][905]LogShaderCompilers: Display: ================================================
+[2026.05.19-02.36.27:477][139]LogEditorTransaction: Undo Material Editor: Convert to Texture
+[2026.05.19-02.36.27:478][139]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.36.27:522][139]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.36.30:650][139]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2026.05.19-02.36.31:485][164]LogEditorTransaction: Undo Move Node
+[2026.05.19-02.36.31:780][181]LogEditorTransaction: Undo Move Node
+[2026.05.19-02.36.32:056][197]LogEditorTransaction: Undo Move Node
+[2026.05.19-02.36.32:333][213]LogEditorTransaction: Undo Create Pin Link
+[2026.05.19-02.36.33:951][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.05.19-02.36.34:995][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.05.19-02.36.35:023][213]MaterialEditorStats: Base pass shader: 223 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.05.19-02.36.35:023][213]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.36.35:023][213]MaterialEditorStats: Texture samplers: 6/16
+[2026.05.19-02.36.35:023][213]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2026.05.19-02.36.35:023][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.36.35:023][213]MaterialEditorStats: Shader Count: 12
+[2026.05.19-02.36.35:023][213]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.36.38:702][474]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.36.38:702][474]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2026.05.19-02.36.38:702][474]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.36.38:702][474]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.36.38:702][474]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.36.38:815][476]MaterialEditorStats: Base pass shader: 223 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.05.19-02.36.38:815][476]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.36.38:815][476]MaterialEditorStats: Texture samplers: 6/16
+[2026.05.19-02.36.38:815][476]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2026.05.19-02.36.38:815][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.36.38:815][476]MaterialEditorStats: Shader Count: 5
+[2026.05.19-02.36.38:815][476]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.36.49:498][986]LogSlate: Window 'M_Concrete_Tiles' being destroyed
+[2026.05.19-02.36.55:229][577]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid
+[2026.05.19-02.36.55:300][577]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.05.19-02.36.55:690][577]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.36.55:690][577]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2026.05.19-02.36.55:690][577]MaterialEditorStats: LWC Promote usages (Est.): 2 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.36.55:690][577]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 5 (PS), 0 (CS)
+[2026.05.19-02.36.55:690][577]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 6 (PS), 0 (CS)
+[2026.05.19-02.36.55:690][577]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.36.55:690][577]MaterialEditorStats: Preshaders: 8  (9 param fetches, 17 ops)
+[2026.05.19-02.36.55:782][579]MaterialEditorStats: Base pass shader: 217 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.19-02.36.55:782][579]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.36.55:782][579]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.19-02.36.55:782][579]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2026.05.19-02.36.55:782][579]MaterialEditorStats: LWC Promote usages (Est.): 2 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.36.55:782][579]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 5 (PS), 0 (CS)
+[2026.05.19-02.36.55:782][579]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 6 (PS), 0 (CS)
+[2026.05.19-02.36.55:782][579]MaterialEditorStats: Shader Count: 5
+[2026.05.19-02.36.55:782][579]MaterialEditorStats: Preshaders: 8  (9 param fetches, 17 ops)
+[2026.05.19-02.37.37:332][106]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1698.401367
+[2026.05.19-02.37.38:331][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-02.37.38:331][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1699.067627, Update Interval: 357.125153
+[2026.05.19-02.37.50:859][208]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.37.50:863][208]MaterialEditorStats: Error: [SM6] (Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+[2026.05.19-02.37.53:390][485]LogEditorTransaction: Undo Material Editor: Convert to Texture
+[2026.05.19-02.37.53:549][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.19-02.37.53:703][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.19-02.37.53:827][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.05.19-02.37.54:940][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.05.19-02.37.54:995][485]MaterialEditorStats: Base pass shader: 223 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.05.19-02.37.54:995][485]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.37.54:995][485]MaterialEditorStats: Texture samplers: 6/16
+[2026.05.19-02.37.54:995][485]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2026.05.19-02.37.54:995][485]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.37.54:995][485]MaterialEditorStats: Shader Count: 12
+[2026.05.19-02.37.54:995][485]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.37.54:997][485]MaterialEditorStats: Base pass shader: 217 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.19-02.37.54:997][485]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.37.54:997][485]MaterialEditorStats: Nanite Compute Shader: 874 instructions
+Stats: Resources Used: 10
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.19-02.37.54:997][485]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.19-02.37.54:997][485]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2026.05.19-02.37.54:997][485]MaterialEditorStats: LWC Promote usages (Est.): 2 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.37.54:997][485]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 5 (PS), 0 (CS)
+[2026.05.19-02.37.54:997][485]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 6 (PS), 0 (CS)
+[2026.05.19-02.37.54:997][485]MaterialEditorStats: Shader Count: 19
+[2026.05.19-02.37.54:997][485]MaterialEditorStats: Preshaders: 8  (9 param fetches, 17 ops)
+[2026.05.19-02.38.06:632][575]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.38.06:632][575]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2026.05.19-02.38.06:632][575]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.38.06:632][575]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.38.06:632][575]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.38.06:742][577]MaterialEditorStats: Base pass shader: 223 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.05.19-02.38.06:742][577]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.38.06:742][577]MaterialEditorStats: Texture samplers: 6/16
+[2026.05.19-02.38.06:742][577]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2026.05.19-02.38.06:742][577]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.38.06:742][577]MaterialEditorStats: Shader Count: 5
+[2026.05.19-02.38.06:742][577]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.38.10:118][949]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.38.10:123][949]MaterialEditorStats: Error: [SM6] (Function WorldAlignedTexture) Missing function input 'TextureObject'
+[2026.05.19-02.38.12:892][260]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.38.12:899][260]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.38.15:394][539]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.38.15:394][539]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2026.05.19-02.38.15:394][539]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.38.15:394][539]MaterialEditorStats: LWC Demote usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.15:394][539]MaterialEditorStats: LWC Divide usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.15:394][539]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.15:394][539]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 3 (PS), 0 (CS)
+[2026.05.19-02.38.15:394][539]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.38.15:394][539]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.38.15:891][587]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.38.15:891][587]MaterialEditorStats: Texture samplers: 5/16
+[2026.05.19-02.38.15:891][587]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2026.05.19-02.38.15:891][587]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.38.15:891][587]MaterialEditorStats: LWC Demote usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.15:891][587]MaterialEditorStats: LWC Divide usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.15:891][587]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.15:891][587]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 3 (PS), 0 (CS)
+[2026.05.19-02.38.15:891][587]MaterialEditorStats: Shader Count: 3
+[2026.05.19-02.38.15:891][587]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.38.16:092][611]MaterialEditorStats: Base pass shader: 236 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 7
+Sampler Limit: 32
+
+[2026.05.19-02.38.16:092][611]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.38.16:092][611]MaterialEditorStats: Texture samplers: 7/16
+[2026.05.19-02.38.16:092][611]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2026.05.19-02.38.16:092][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.38.16:092][611]MaterialEditorStats: LWC Demote usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.16:092][611]MaterialEditorStats: LWC Divide usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.16:092][611]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.16:092][611]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 3 (PS), 0 (CS)
+[2026.05.19-02.38.16:092][611]MaterialEditorStats: Shader Count: 4
+[2026.05.19-02.38.16:092][611]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.38.18:075][843]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.38.18:077][843]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2026.05.19-02.38.18:077][843]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.38.18:077][843]MaterialEditorStats: LWC Demote usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.18:077][843]MaterialEditorStats: LWC Divide usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.18:077][843]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.18:077][843]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 3 (PS), 0 (CS)
+[2026.05.19-02.38.18:077][843]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.38.18:077][843]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.38.18:178][845]MaterialEditorStats: Base pass shader: 236 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 7
+Sampler Limit: 32
+
+[2026.05.19-02.38.18:178][845]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.38.18:178][845]MaterialEditorStats: Texture samplers: 7/16
+[2026.05.19-02.38.18:178][845]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2026.05.19-02.38.18:178][845]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.38.18:178][845]MaterialEditorStats: LWC Demote usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.18:178][845]MaterialEditorStats: LWC Divide usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.18:178][845]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.18:178][845]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 3 (PS), 0 (CS)
+[2026.05.19-02.38.18:178][845]MaterialEditorStats: Shader Count: 5
+[2026.05.19-02.38.18:178][845]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.38.21:297][205]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.38.21:301][205]MaterialEditorStats: Error: [SM6] (Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+[2026.05.19-02.38.23:324][421]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.38.23:331][421]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.38.23:335][421]MaterialEditorStats: Error: [SM6] (Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+[2026.05.19-02.38.23:335][421]MaterialEditorStats: Error: [SM6] (Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+[2026.05.19-02.38.27:048][841]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.38.27:053][841]MaterialEditorStats: Error: [SM6] (Function WorldAlignedTexture) Missing function input 'TextureObject'
+[2026.05.19-02.38.27:053][841]MaterialEditorStats: Error: [SM6] (Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+[2026.05.19-02.38.29:204][ 84]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.38.32:328][430]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.38.32:333][430]MaterialEditorStats: Error: [SM6] (Function WorldAlignedTexture) Missing function input 'TextureObject'
+[2026.05.19-02.38.32:333][430]MaterialEditorStats: Error: [SM6] (Function WorldAlignedTexture) Missing function input 'TextureObject'
+[2026.05.19-02.38.34:197][637]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.38.34:201][637]MaterialEditorStats: Error: [SM6] (Function WorldAlignedTexture) Missing function input 'TextureObject'
+[2026.05.19-02.38.35:436][765]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.38.35:436][765]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(13)
+[2026.05.19-02.38.35:436][765]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.38.35:436][765]MaterialEditorStats: LWC Demote usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.35:436][765]MaterialEditorStats: LWC Divide usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.35:436][765]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.35:436][765]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 9 (PS), 0 (CS)
+[2026.05.19-02.38.35:436][765]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.38.35:436][765]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.38.35:846][804]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.38.35:846][804]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.19-02.38.35:846][804]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(13)
+[2026.05.19-02.38.35:846][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.38.35:846][804]MaterialEditorStats: LWC Demote usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.35:846][804]MaterialEditorStats: LWC Divide usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.35:846][804]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.35:846][804]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 9 (PS), 0 (CS)
+[2026.05.19-02.38.35:846][804]MaterialEditorStats: Shader Count: 3
+[2026.05.19-02.38.35:846][804]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.38.36:044][827]MaterialEditorStats: Base pass shader: 221 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.05.19-02.38.36:044][827]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.38.36:044][827]MaterialEditorStats: Texture samplers: 6/16
+[2026.05.19-02.38.36:044][827]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(13)
+[2026.05.19-02.38.36:044][827]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.38.36:044][827]MaterialEditorStats: LWC Demote usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.36:044][827]MaterialEditorStats: LWC Divide usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.36:044][827]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.38.36:044][827]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 9 (PS), 0 (CS)
+[2026.05.19-02.38.36:044][827]MaterialEditorStats: Shader Count: 4
+[2026.05.19-02.38.36:044][827]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.39.14:788][ 39]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.39.14:788][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(13)
+[2026.05.19-02.39.14:788][ 39]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.39.14:788][ 39]MaterialEditorStats: LWC Demote usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.39.14:788][ 39]MaterialEditorStats: LWC Divide usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.39.14:788][ 39]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.39.14:788][ 39]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 9 (PS), 0 (CS)
+[2026.05.19-02.39.14:788][ 39]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.39.14:788][ 39]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.39.14:878][ 41]MaterialEditorStats: Base pass shader: 221 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.05.19-02.39.14:878][ 41]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.39.14:878][ 41]MaterialEditorStats: Texture samplers: 6/16
+[2026.05.19-02.39.14:878][ 41]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(13)
+[2026.05.19-02.39.14:878][ 41]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.39.14:878][ 41]MaterialEditorStats: LWC Demote usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.39.14:878][ 41]MaterialEditorStats: LWC Divide usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.39.14:878][ 41]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.39.14:878][ 41]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 9 (PS), 0 (CS)
+[2026.05.19-02.39.14:878][ 41]MaterialEditorStats: Shader Count: 5
+[2026.05.19-02.39.14:878][ 41]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: ================================================
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Total job queries 670, among them cache hits 187 (27.91%), DDC hits 374 (55.82%), Duplicates 70 (10.45%)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Tracking 413 distinct input hashes that result in 300 distinct outputs (72.64%)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: RAM used: 3.73 MiB of 1.60 GiB budget. Usage: 0.23%
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Shaders Compiled: 39
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Jobs assigned 39, completed 39 (100%)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Average time worker was idle: 67.19 s
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 1.35 s
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Job life time (pending + execution): average 0.60 s, max 1.45
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Shader code size: total 348.462 KiB, numShaders 39, average 8.935 KiB, min 5.68 KiB, max 18.754 KiB
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.66 s
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Jobs were issued in 39 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Average processing rate: 4.50 jobs/sec
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Total thread time: 14.735 s
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Total thread preprocess time: 7.965 s
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Percentage time preprocessing: 54.06%
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Effective parallelization: 1.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.141816
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.73 sec, max 0.80 sec, min 0.69 sec)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 0.63 sec, max 0.79 sec, min 0.53 sec)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   14 times, average 0.33 sec, max 0.41 sec, min 0.27 sec)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.11% of total time (compiled   14 times, average 0.33 sec, max 0.41 sec, min 0.27 sec)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.75% of total time (compiled    5 times, average 0.73 sec, max 0.80 sec, min 0.69 sec)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 12.92% of total time (compiled    3 times, average 0.63 sec, max 0.79 sec, min 0.53 sec)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.29% of total time (compiled    7 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display:                                                 FLumenCardPS - 5.86% of total time (compiled    3 times, average 0.29 sec, max 0.29 sec, min 0.27 sec)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: === Material stats ===
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Materials Translated:    253
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Material Translation Only: 0.06 s (42%)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: Material Cache Hits: 21 (8%)
+[2026.05.19-02.39.24:545][135]LogShaderCompilers: Display: ================================================
+[2026.05.19-02.39.34:187][281]LogEditorTransaction: Undo Move Node
+[2026.05.19-02.39.34:482][286]LogEditorTransaction: Undo Move Node
+[2026.05.19-02.39.34:715][290]LogEditorTransaction: Undo Move Node
+[2026.05.19-02.39.34:876][298]LogEditorTransaction: Undo Material Editor: Paste
+[2026.05.19-02.39.36:583][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.05.19-02.39.38:125][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.05.19-02.39.38:341][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.05.19-02.39.38:559][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.05.19-02.39.39:035][325]LogEditorTransaction: Undo Place Objects
+[2026.05.19-02.39.39:376][358]LogEditorTransaction: Undo Move Node
+[2026.05.19-02.39.39:750][395]LogEditorTransaction: Undo Move Node
+[2026.05.19-02.39.40:063][424]LogEditorTransaction: Undo Move Node
+[2026.05.19-02.39.40:322][448]LogEditorTransaction: Undo Create Pin Link
+[2026.05.19-02.39.40:324][448]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.40:363][448]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.41:728][448]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2026.05.19-02.39.41:793][448]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.41:803][448]LogMaterial: Warning: [AssetLog] C:\Users\s4043089\Documents\Unreal Projects\MyProject\Content\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.41:819][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.19-02.39.41:887][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.05.19-02.39.42:007][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.05.19-02.39.42:183][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.05.19-02.39.42:216][448]MaterialEditorStats: Error: [SM6] (Function WorldAlignedTexture) Missing function input 'TextureObject'
+[2026.05.19-02.39.42:478][466]LogEditorTransaction: Undo Create Pin Link
+[2026.05.19-02.39.42:481][466]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.42:520][466]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.43:423][466]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2026.05.19-02.39.43:493][466]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.43:503][466]LogMaterial: Warning: [AssetLog] C:\Users\s4043089\Documents\Unreal Projects\MyProject\Content\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.43:520][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.05.19-02.39.43:570][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.05.19-02.39.43:693][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.05.19-02.39.43:889][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.05.19-02.39.43:936][466]MaterialEditorStats: Error: [SM6] (Function WorldAlignedTexture) Missing function input 'TextureObject'
+[2026.05.19-02.39.43:936][466]MaterialEditorStats: Error: [SM6] (Function WorldAlignedTexture) Missing function input 'TextureObject'
+[2026.05.19-02.39.44:137][469]LogEditorTransaction: Undo Create Pin Link
+[2026.05.19-02.39.44:139][469]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.44:178][469]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.44:803][469]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2026.05.19-02.39.44:877][469]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.44:887][469]LogMaterial: Warning: [AssetLog] C:\Users\s4043089\Documents\Unreal Projects\MyProject\Content\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.44:905][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.05.19-02.39.44:974][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.05.19-02.39.45:097][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.05.19-02.39.45:291][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.05.19-02.39.45:328][469]MaterialEditorStats: Error: [SM6] (Function WorldAlignedTexture) Missing function input 'TextureObject'
+[2026.05.19-02.39.45:328][469]MaterialEditorStats: Error: [SM6] (Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+[2026.05.19-02.39.45:430][471]LogEditorTransaction: Undo Move Node
+[2026.05.19-02.39.45:672][487]LogEditorTransaction: Undo Material Editor: Paste
+[2026.05.19-02.39.45:674][487]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.45:712][487]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.46:491][487]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2026.05.19-02.39.46:555][487]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.46:566][487]LogMaterial: Warning: [AssetLog] C:\Users\s4043089\Documents\Unreal Projects\MyProject\Content\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.46:581][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.05.19-02.39.46:658][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.05.19-02.39.46:783][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.05.19-02.39.46:968][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.05.19-02.39.47:253][507]LogEditorTransaction: Undo Create Pin Link
+[2026.05.19-02.39.47:255][507]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.47:293][507]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.47:880][507]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2026.05.19-02.39.47:946][507]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.47:956][507]LogMaterial: Warning: [AssetLog] C:\Users\s4043089\Documents\Unreal Projects\MyProject\Content\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.47:973][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.19-02.39.48:040][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.05.19-02.39.48:159][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.19-02.39.48:317][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.05.19-02.39.48:356][507]MaterialEditorStats: Error: [SM6] (Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+[2026.05.19-02.39.48:356][507]MaterialEditorStats: Error: [SM6] (Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+[2026.05.19-02.39.48:451][508]LogEditorTransaction: Undo Material Editor: Convert to Texture
+[2026.05.19-02.39.48:453][508]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.48:492][508]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.48:891][508]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2026.05.19-02.39.48:962][508]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.48:973][508]LogMaterial: Warning: [AssetLog] C:\Users\s4043089\Documents\Unreal Projects\MyProject\Content\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+
+[2026.05.19-02.39.48:988][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.19-02.39.49:043][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.05.19-02.39.49:164][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.05.19-02.39.49:361][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.05.19-02.39.49:395][508]MaterialEditorStats: Error: [SM6] (Node Add) Attempting to perform arithmetic on non-primitive types: texture2D float
+[2026.05.19-02.39.49:490][509]LogEditorTransaction: Undo Material Editor: Convert to Texture
+[2026.05.19-02.39.49:621][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.05.19-02.39.50:770][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.05.19-02.39.50:899][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.05.19-02.39.51:107][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.05.19-02.39.51:165][509]MaterialEditorStats: Base pass shader: 236 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 7
+Sampler Limit: 32
+
+[2026.05.19-02.39.51:165][509]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.39.51:165][509]MaterialEditorStats: Texture samplers: 7/16
+[2026.05.19-02.39.51:165][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(9)
+[2026.05.19-02.39.51:165][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.39.51:165][509]MaterialEditorStats: LWC Demote usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.39.51:165][509]MaterialEditorStats: LWC Divide usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.39.51:165][509]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 1 (VS), 0 (PS), 0 (CS)
+[2026.05.19-02.39.51:165][509]MaterialEditorStats: LWC Other usages (Est.): 0 (VS), 3 (PS), 0 (CS)
+[2026.05.19-02.39.51:165][509]MaterialEditorStats: Shader Count: 12
+[2026.05.19-02.39.51:165][509]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.39.51:239][510]LogEditorTransaction: Undo Move Node
+[2026.05.19-02.39.51:512][528]LogEditorTransaction: Undo Material Editor: Paste
+[2026.05.19-02.39.51:641][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.05.19-02.39.51:823][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.05.19-02.39.51:945][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.19-02.39.52:127][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.05.19-02.39.52:914][605]LogEditorTransaction: Undo Create Pin Link
+[2026.05.19-02.39.52:915][605]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.52:954][605]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.54:109][605]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2026.05.19-02.39.54:175][605]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.54:184][605]LogMaterial: Warning: [AssetLog] C:\Users\s4043089\Documents\Unreal Projects\MyProject\Content\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.54:199][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.19-02.39.54:265][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.05.19-02.39.54:385][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.19-02.39.54:559][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.05.19-02.39.54:594][605]MaterialEditorStats: Error: [SM6] (Function WorldAlignedTexture) Missing function input 'TextureObject'
+[2026.05.19-02.39.55:566][706]LogEditorTransaction: Undo Move Node
+[2026.05.19-02.39.56:176][722]LogEditorTransaction: Undo Material Editor: Convert to Texture
+[2026.05.19-02.39.56:177][722]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.56:217][722]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.57:210][722]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2026.05.19-02.39.57:278][722]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Concrete_Tiles: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.57:288][722]LogMaterial: Warning: [AssetLog] C:\Users\s4043089\Documents\Unreal Projects\MyProject\Content\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Function WorldAlignedTexture) Missing function input 'TextureObject'
+
+[2026.05.19-02.39.57:304][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.19-02.39.57:366][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.05.19-02.39.57:488][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.19-02.39.57:662][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.05.19-02.39.58:649][813]LogEditorTransaction: Undo Create Pin Link
+[2026.05.19-02.39.58:779][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.19-02.39.58:960][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.05.19-02.39.59:079][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.05.19-02.39.59:262][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.05.19-02.39.59:294][813]MaterialEditorStats: Base pass shader: 223 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.05.19-02.39.59:295][813]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.39.59:295][813]MaterialEditorStats: Texture samplers: 6/16
+[2026.05.19-02.39.59:295][813]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2026.05.19-02.39.59:295][813]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.39.59:295][813]MaterialEditorStats: Shader Count: 12
+[2026.05.19-02.39.59:295][813]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.40.01:292][ 27]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.40.01:292][ 27]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2026.05.19-02.40.01:292][ 27]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.40.01:292][ 27]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.40.01:292][ 27]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.40.01:393][ 29]MaterialEditorStats: Base pass shader: 223 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.05.19-02.40.01:395][ 29]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.40.01:395][ 29]MaterialEditorStats: Texture samplers: 6/16
+[2026.05.19-02.40.01:395][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2026.05.19-02.40.01:395][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.40.01:395][ 29]MaterialEditorStats: Shader Count: 5
+[2026.05.19-02.40.01:395][ 29]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.05.19-02.40.07:970][405]LogSlate: Window 'Message' being destroyed
+[2026.05.19-02.40.07:975][405]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles
+(Selecting 'No' will cause all changes to be lost!)
+[2026.05.19-02.40.10:982][405]LogSlate: Window 'Message' being destroyed
+[2026.05.19-02.40.10:989][405]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid
+(Selecting 'No' will cause all changes to be lost!)
+[2026.05.19-02.40.12:271][543]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-02.40.12:271][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-02.40.12:306][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.05.19-02.40.15:339][700]LogSlate: Window 'Message' being destroyed
+[2026.05.19-02.40.15:345][700]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid
+(Selecting 'No' will cause all changes to be lost!)
+[2026.05.19-02.40.15:374][700]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-02.40.15:374][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-02.40.15:400][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.05.19-02.40.28:474][947]LogStreaming: Display: FlushAsyncLoading(414): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-02.40.28:515][947]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Brick_Clay_Old.M_Brick_Clay_Old
+[2026.05.19-02.40.28:518][947]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.05.19-02.40.28:944][947]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.40.28:944][947]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2026.05.19-02.40.28:944][947]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.40.28:944][947]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.40.28:944][947]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.40.29:101][949]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.40.29:101][949]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.19-02.40.29:101][949]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2026.05.19-02.40.29:101][949]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.40.29:101][949]MaterialEditorStats: Shader Count: 3
+[2026.05.19-02.40.29:101][949]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.40.29:510][982]MaterialEditorStats: Base pass shader: 217 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.05.19-02.40.29:510][982]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.40.29:510][982]MaterialEditorStats: Texture samplers: 5/16
+[2026.05.19-02.40.29:510][982]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2026.05.19-02.40.29:510][982]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.40.29:510][982]MaterialEditorStats: Shader Count: 4
+[2026.05.19-02.40.29:510][982]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.40.38:633][624]LogStreaming: Display: FlushAsyncLoading(415): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-02.40.38:658][624]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.40.38:658][624]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2026.05.19-02.40.38:658][624]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.40.38:658][624]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.40.38:658][624]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.40.38:772][626]MaterialEditorStats: Base pass shader: 217 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.05.19-02.40.38:772][626]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.40.38:772][626]MaterialEditorStats: Texture samplers: 5/16
+[2026.05.19-02.40.38:772][626]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2026.05.19-02.40.38:772][626]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.40.38:772][626]MaterialEditorStats: Shader Count: 5
+[2026.05.19-02.40.38:772][626]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.40.43:659][ 18]LogEditorTransaction: Undo Move Node
+[2026.05.19-02.40.44:055][ 24]LogEditorTransaction: Undo Material Editor: New Function Call
+[2026.05.19-02.40.44:203][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.05.19-02.40.44:957][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.05.19-02.40.50:326][442]LogStreaming: Display: FlushAsyncLoading(416): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-02.40.50:353][442]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.40.50:354][442]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2026.05.19-02.40.50:354][442]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.40.50:354][442]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.40.50:354][442]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.40.50:462][444]MaterialEditorStats: Base pass shader: 217 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.05.19-02.40.50:462][444]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.40.50:462][444]MaterialEditorStats: Texture samplers: 5/16
+[2026.05.19-02.40.50:462][444]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2026.05.19-02.40.50:462][444]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.40.50:462][444]MaterialEditorStats: Shader Count: 5
+[2026.05.19-02.40.50:462][444]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.41.48:095][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.19-02.41.48:110][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/T9/C1M2UH9UKUJS489J1VPQD4_Auto3
+[2026.05.19-02.41.48:110][464]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/C1M2UH9UKUJS489J1VPQD4_Auto3245647B24D5351565260AA9C41A772E6.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/T9/C1M2UH9UKUJS489J1VPQD4_Auto3.uasset'
+[2026.05.19-02.41.48:131][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/3I/317OVNBSDHUF1ISK3MZX3X_Auto3
+[2026.05.19-02.41.48:131][464]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/317OVNBSDHUF1ISK3MZX3X_Auto3E05E101E4A494532EDA7708B56E48290.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/3I/317OVNBSDHUF1ISK3MZX3X_Auto3.uasset'
+[2026.05.19-02.41.48:133][464]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.052
+[2026.05.19-02.41.48:133][464]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2026.05.19-02.41.48:133][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B] ([1] browsable assets)...
+[2026.05.19-02.41.48:133][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B]
+[2026.05.19-02.41.48:141][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B_Auto3
+[2026.05.19-02.41.48:141][464]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Extrude_C61A997B_Auto31781BF59430BFE46C3C75899275407CE.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B_Auto3.uasset'
+[2026.05.19-02.41.48:142][464]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.05.19-02.41.55:017][949]LogSlate: Window 'Message' being destroyed
+[2026.05.19-02.41.55:025][949]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Materials/M_Brick_Clay_Old.M_Brick_Clay_Old
+(Selecting 'No' will cause all changes to be lost!)
+[2026.05.19-02.41.55:039][949]LogSlate: Window 'M_Brick_Clay_Old' being destroyed
+[2026.05.19-02.41.55:059][949]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-02.41.55:059][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-02.41.55:089][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.05.19-02.42.09:154][584]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.05.19-02.42.09:154][584]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.05.19-02.42.09:156][584]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_CC96E511FB857EDC02_2083542992
+[2026.05.19-02.42.09:157][584]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_CC96E511FB857EDC02_2083542992
+[2026.05.19-02.42.16:933][273]LogTexture: Display: Building textures: /Game/PlasterMaterialPack/Texture/T_Plaster_A_Height.T_Plaster_A_Height (G8, 4096x4096 x1x1x1) (Required Memory Estimate: 464.999993 MB), EncodeSpeed: Fast
+[2026.05.19-02.42.24:190][991]Cmd: TRANSACTION UNDO
+[2026.05.19-02.42.24:190][991]LogEditorTransaction: Undo Rotate Elements
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: ================================================
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Total job queries 1,194, among them cache hits 605 (50.67%), DDC hits 452 (37.86%), Duplicates 75 (6.28%)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Tracking 514 distinct input hashes that result in 380 distinct outputs (73.93%)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: RAM used: 4.36 MiB of 1.60 GiB budget. Usage: 0.27%
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Shaders Compiled: 62
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Jobs assigned 62, completed 62 (100%)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Average time worker was idle: 46.97 s
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 1.35 s
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Job life time (pending + execution): average 0.59 s, max 1.45
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Shader code size: total 574.229 KiB, numShaders 62, average 9.262 KiB, min 4.344 KiB, max 21.617 KiB
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.07 s
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Jobs were issued in 62 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Average processing rate: 4.11 jobs/sec
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Total thread time: 24.4 s
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Total thread preprocess time: 14.744 s
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Percentage time preprocessing: 60.43%
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Effective parallelization: 1.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.134911
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 0.83 sec, max 0.86 sec, min 0.80 sec)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    8 times, average 0.71 sec, max 0.80 sec, min 0.62 sec)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    6 times, average 0.59 sec, max 0.79 sec, min 0.50 sec)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   22 times, average 0.32 sec, max 0.41 sec, min 0.27 sec)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.32 sec, max 0.34 sec, min 0.29 sec)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.91% of total time (compiled   22 times, average 0.32 sec, max 0.41 sec, min 0.27 sec)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.17% of total time (compiled    8 times, average 0.71 sec, max 0.80 sec, min 0.62 sec)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 14.55% of total time (compiled    6 times, average 0.59 sec, max 0.79 sec, min 0.50 sec)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.16% of total time (compiled    3 times, average 0.83 sec, max 0.86 sec, min 0.80 sec)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.77% of total time (compiled    8 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: === Material stats ===
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Materials Translated:    364
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Material Translation Only: 0.10 s (52%)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: Material Cache Hits: 21 (6%)
+[2026.05.19-02.42.24:555][998]LogShaderCompilers: Display: ================================================
+[2026.05.19-02.42.49:056][779]Cmd: TRANSACTION UNDO
+[2026.05.19-02.42.49:056][779]LogEditorTransaction: Undo Scale Elements
+[2026.05.19-02.43.26:811][ 58]Cmd: DUPLICATE
+[2026.05.19-02.43.26:811][ 58]Cmd: ACTOR DUPLICATE
+[2026.05.19-02.43.27:931][177]Cmd: TRANSACTION UNDO
+[2026.05.19-02.43.27:931][177]LogEditorTransaction: Undo Duplicate Elements
+[2026.05.19-02.43.44:607][ 61]Cmd: TRANSACTION UNDO
+[2026.05.19-02.43.44:607][ 61]LogEditorTransaction: Undo Move Elements
+[2026.05.19-02.44.02:021][ 11]Cmd: DUPLICATE
+[2026.05.19-02.44.02:021][ 11]Cmd: ACTOR DUPLICATE
+[2026.05.19-02.44.07:226][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2088.286133
+[2026.05.19-02.44.07:533][648]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-02.44.07:533][648]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2088.586182, Update Interval: 356.475098
+[2026.05.19-02.44.51:551][666]Cmd: DUPLICATE
+[2026.05.19-02.44.51:551][666]Cmd: ACTOR DUPLICATE
+[2026.05.19-02.45.15:419][360]Cmd: DUPLICATE
+[2026.05.19-02.45.15:419][360]Cmd: ACTOR DUPLICATE
+[2026.05.19-02.45.21:256][ 23]Cmd: DUPLICATE
+[2026.05.19-02.45.21:256][ 23]Cmd: ACTOR DUPLICATE
+[2026.05.19-02.45.31:308][151]Cmd: DUPLICATE
+[2026.05.19-02.45.31:308][151]Cmd: ACTOR DUPLICATE
+[2026.05.19-02.45.35:334][618]Cmd: DUPLICATE
+[2026.05.19-02.45.35:334][618]Cmd: ACTOR DUPLICATE
+[2026.05.19-02.45.50:268][279]Cmd: DELETE
+[2026.05.19-02.45.50:268][279]Cmd: ACTOR DELETE
+[2026.05.19-02.45.50:286][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.05.19-02.45.50:325][279]LogEditorActor: Deleted 1 Components (0.056 secs)
+[2026.05.19-02.45.56:271][891]Cmd: DELETE
+[2026.05.19-02.45.56:271][891]Cmd: ACTOR DELETE
+[2026.05.19-02.45.56:287][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.19-02.45.56:324][891]LogEditorActor: Deleted 1 Components (0.054 secs)
+[2026.05.19-02.46.56:721][517]Cmd: TRANSACTION UNDO
+[2026.05.19-02.46.56:721][517]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.19-02.47.02:878][131]Cmd: DUPLICATE
+[2026.05.19-02.47.02:878][131]Cmd: ACTOR DUPLICATE
+[2026.05.19-02.47.12:119][163]Cmd: TRANSACTION UNDO
+[2026.05.19-02.47.12:119][163]LogEditorTransaction: Undo Scale Elements
+[2026.05.19-02.47.38:586][187]Cmd: TRANSACTION UNDO
+[2026.05.19-02.47.38:586][187]LogEditorTransaction: Undo Move Elements
+[2026.05.19-02.50.46:788][ 18]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2487.840088
+[2026.05.19-02.50.47:789][ 21]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-02.50.47:789][ 21]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2488.505859, Update Interval: 340.604889
+[2026.05.19-02.51.35:351][791]Cmd: TRANSACTION UNDO
+[2026.05.19-02.51.35:351][791]LogEditorTransaction: Undo Move Elements
+[2026.05.19-02.51.51:811][475]Cmd: TRANSACTION UNDO
+[2026.05.19-02.51.51:811][475]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.19-02.52.47:391][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.05.19-02.52.47:404][108]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/T9/C1M2UH9UKUJS489J1VPQD4_Auto4
+[2026.05.19-02.52.47:404][108]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/C1M2UH9UKUJS489J1VPQD4_Auto4F4D1E2D5498450ADD2744E9293360E3B.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/T9/C1M2UH9UKUJS489J1VPQD4_Auto4.uasset'
+[2026.05.19-02.52.47:414][108]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/2J/CUQS2HBMN5Q4OYE9JZYYZ8_Auto4
+[2026.05.19-02.52.47:415][108]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/CUQS2HBMN5Q4OYE9JZYYZ8_Auto460C9888E4F3929A446EBA49D53B99B96.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/2J/CUQS2HBMN5Q4OYE9JZYYZ8_Auto4.uasset'
+[2026.05.19-02.52.47:434][108]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/EM/T70FAQPITRFWB1IVMIYBOC_Auto4
+[2026.05.19-02.52.47:435][108]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/T70FAQPITRFWB1IVMIYBOC_Auto4A4861B9749F710598304F998B493C509.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/EM/T70FAQPITRFWB1IVMIYBOC_Auto4.uasset'
+[2026.05.19-02.52.47:443][108]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/CC/RZPMZHINO8L4RBA7T9FLGK_Auto4
+[2026.05.19-02.52.47:443][108]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/RZPMZHINO8L4RBA7T9FLGK_Auto429AC7ED946601D847FA083A8FA9A74EC.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/CC/RZPMZHINO8L4RBA7T9FLGK_Auto4.uasset'
+[2026.05.19-02.52.47:454][108]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/3I/317OVNBSDHUF1ISK3MZX3X_Auto4
+[2026.05.19-02.52.47:454][108]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/317OVNBSDHUF1ISK3MZX3X_Auto4FABA6E53425F5E531CF004A1E2804EA2.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/3I/317OVNBSDHUF1ISK3MZX3X_Auto4.uasset'
+[2026.05.19-02.52.47:463][108]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/ML/OF6ALYU6L4CFNXJCQLNWEJ_Auto4
+[2026.05.19-02.52.47:463][108]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/OF6ALYU6L4CFNXJCQLNWEJ_Auto4926AFC37400E3B83A06C7E83D4CA5C11.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/ML/OF6ALYU6L4CFNXJCQLNWEJ_Auto4.uasset'
+[2026.05.19-02.52.47:464][108]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.092
+[2026.05.19-02.52.47:464][108]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.092
+[2026.05.19-02.52.47:464][108]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B] ([1] browsable assets)...
+[2026.05.19-02.52.47:464][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B]
+[2026.05.19-02.52.47:472][108]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B_Auto4
+[2026.05.19-02.52.47:472][108]LogSavePackage: Moving '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Extrude_C61A997B_Auto445B6FECC4792656DE501DDB9F3A10F5B.tmp' to '../../../../../../Users/s4043089/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/FirstPerson/_GENERATED/s4043089/Extrude_C61A997B_Auto4.uasset'
+[2026.05.19-02.52.47:474][108]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.05.19-02.57.08:158][133]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2869.198486
+[2026.05.19-02.57.09:158][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-02.57.09:158][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2869.864990, Update Interval: 313.242584
+[2026.05.19-03.03.09:192][216]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3230.229736
+[2026.05.19-03.03.10:191][219]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-03.03.10:191][219]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3230.896484, Update Interval: 316.166870
+[2026.05.19-03.09.05:798][668]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3586.838379
+[2026.05.19-03.09.07:131][672]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-03.09.07:131][672]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3587.838867, Update Interval: 334.214294
 >>>>>>> Stashed changes
